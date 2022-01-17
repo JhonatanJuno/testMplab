@@ -1,13 +1,14 @@
-/*
- * File:   main.c
- * Author: jhona
- *
- * Created on January 16, 2022, 11:25 PM
- */
+/*Librerias y macros*/
+#include "config.h"
 
 
-#include <xc.h>
+/*Variables globales*/
 
-void main(void) {
-    return;
+/*Declaracion de funciones*/
+
+/*Funcion Principal*/
+int main(void){
+
+    return 0;
 }
+/*Definicion de funciones*/  
